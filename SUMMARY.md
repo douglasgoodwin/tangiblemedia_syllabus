@@ -7,3 +7,4 @@
 * [Project 2: Encode/Decode](project-2-encode-decode.md)
 * [Project 3: TBA](project-3-tba.md)
 * [Resources](resources.md)
+* [Lectures](lectures.md)
