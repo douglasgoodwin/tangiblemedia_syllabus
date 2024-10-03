@@ -22,13 +22,13 @@ Create part of **(Sinister) Control**: a chain of devices that communicates a on
 
 ### Six Rules
 
-1. Students are given input and output messages randomly at the beginning of this project.
-2. Each project will "listen" for the input message and send the output message within 30 seconds.
-3. All messages are physical, one-bit interactions like the ones that you see in the film.
+1. Each student project will feature a standard button to receive the message.
+2. Youe project must receive the message (a button press) and send that message (another button press) in a period of time greater than 3 seconds and less than 30 seconds.
+3. All messages are simple, one-bit interactions like the ones that you see in the film.
 4. Translating the message may be done physically, electronically, or by programming an Arduino.
-5. Each projects must fit inside a cubic foot.
+5. Projects will be placed on the tables and must fit inside a volume equal to a cubic foot.
 6. No fire, no fuel, no toxic chemicals!
 
 ### Final Demonstration
 
-Students will install, run, and document **(Sinister) Control** outside the FabLab on 10/31.
+Students will install, run, and document **(Sinister) Control** on the deck outside the FabLab on **10/31**.
