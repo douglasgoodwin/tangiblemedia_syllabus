@@ -5,8 +5,8 @@
 | Week 0  | Thursday, 9/26  | Syllabus, Hand out kits, Welcome Questionnaire, Introductions, FabLab Training |
 | Week 1  | Tuesday, 10/1   | Electronics Intro                                                              |
 |         | Thursday, 10/3  | <p>Continue the Electronics Intro<br>Assign Project 1 detail</p>               |
-| Week 2  | Tuesday, 10/8   | Arduino Intro, Sample Code, Digital Input                                      |
-|         | Thursday, 10/10 | Analog Input                                                                   |
+| Week 2  | Tuesday, 10/8   | Arduino Intro, Sample Code, Digital I/O (Button and LED)                       |
+|         | Thursday, 10/10 | Using Arduino PWM to control more voltage                                      |
 | Week 3  | Tuesday, 10/15  | Individual Meetings                                                            |
 |         | Thursday, 10/17 | Basic Audio, State, Work in class on Project 1                                 |
 | Week 4  | Tuesday, 10/22  | Work in class on Project 1                                                     |
