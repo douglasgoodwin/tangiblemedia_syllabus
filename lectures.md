@@ -28,6 +28,8 @@
 
 ### 2.2\_Basic\_Audio
 
+\+ Have a look at this to see how to make sound with a MOSFET transistor: [Run 4 Ohm speaker over MOSFET](https://forum.arduino.cc/t/run-4-ohm-speaker-over-mosfet/975276)
+
 * 2.2\_Basic\_Audio.pdf
 * 1-song\_1-song.ino
 * 1-song\_notes.h
