@@ -8,6 +8,17 @@
 
 2.\_Arduino.pdf feather-blink-2.fzz feather-blink-3.fzz 1-blink.ino 2-blink-external-led.ino 2-blink-two-leds.ino 3-pwm-led.ino 4-pwm-loop.ino 1-blink\_code.py 2-blink-external-led\_code.py 2-blink-two-leds\_code.py 3-pwm-led\_code.py
 
+**tangible media** | 10/03
+
+1. changes to [the syllabus](https://app.gitbook.com/o/-LnQR9ZX8S9krA\_l7Zsd/sites/site\_gioSg)
+2. electricity lecture
+3. make a [penny battery](https://www.exploratorium.edu/snacks/penny-battery)
+4. project 1 (officially)
+5. first circuit!
+
+\
+**tangible media** | 10/10
+
 1. Use Pulse Width Modulation (PWM) on the Arduino to dim an LED
    1. Video: [N-channel MOSFET as a motor switch](https://youtu.be/3PkpOeHTnfo?si=KLEHY6YKH8K9Q-IA)
    2. Watch video on using PWM and a MOSFET transistor to control a bright indandescent lamp (or other load)
