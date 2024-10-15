@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include "notes.h"
 
 const int PIEZO_PIN = 9;
