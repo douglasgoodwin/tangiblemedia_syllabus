@@ -20,7 +20,7 @@ Each student's project will fit into this overall scheme, creating a complex, in
 
 Create part of **(Sinister) Control**: a chain of devices that communicates a one-bit signal (GO or NO GO) from beginning to end. Each individual controller must convert one type of signal/input into another type of signal/output using physical means, adhering to these rules:
 
-### Six Rules
+### Seven Rules
 
 1. Each student project will feature a standard button to receive the message.
 2. Youe project must receive the message (a button press) and send that message (another button press) in a period of time greater than 3 seconds and less than 30 seconds.
@@ -28,6 +28,7 @@ Create part of **(Sinister) Control**: a chain of devices that communicates a on
 4. Translating the message may be done physically, electronically, or by programming an Arduino.
 5. Projects will be placed on the tables and must fit inside a volume equal to a cubic foot.
 6. No fire, no fuel, no toxic chemicals!
+7. You can use a human as a sensor (e.g. to listen for a particular song played on the buzzer) but you can't pick your human ahead of time and the human can't press the button directly.
 
 ### Final Demonstration
 
