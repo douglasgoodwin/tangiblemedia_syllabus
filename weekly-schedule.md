@@ -10,7 +10,7 @@
 | Week 3  | Tuesday, 10/15  | <p>Buzzer music<br>Maintaining State<br>Build a 1'x1' base for your project</p>         |
 |         | Thursday, 10/17 | <p>Jonathan's Soldering demo<br>Individual Meetings<br>Work in class on Project 1</p>   |
 | Week 4  | Tuesday, 10/22  | <p>Capturing button presses<br>Work in class on Project 1</p>                           |
-|         | Thursday, 10/24 | Work in class on Project 1                                                              |
+|         | Thursday, 10/24 | <p>Solder your circuit onto the perfboard<br>Work in class on Project 1</p>             |
 | Week 5  | Tuesday, 10/29  | Work in class on Project 1                                                              |
 |         | Thursday, 10/31 | <p>Install and run Project 1, </p><p>Document and celebrate!</p>                        |
 | Week 6  | Tuesday, 11/5   | <p>Communication<br>P2 White Elephant Exchange<br>Forms teams of Message and Medium</p> |
