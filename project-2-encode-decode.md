@@ -29,10 +29,10 @@ Work in teams of two. Your task is to send a message and encode it into a form t
 * The number 42
 * Forward / left / right / back
 * Rick Astley’s "Never Gonna Give You Up"
-* 64x64 pixel image of Pikachu
+* 8x8 pixel 1-bit image of Space Invader
 * The first five notes of Beethoven’s 5th Symphony
 * The color blue
-* The "I have a dream" speech.
+* "Hello from the children of planet Earth" (Voyager record)
 
 ### "White Elephant" Gift Exchange for assigning messages and mediums
 
