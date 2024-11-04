@@ -16,19 +16,21 @@ Work in teams of two. Your task is to send a message and encode it into a form t
 
 * Steel pipe
 * Buzzer
-* Single-color LED
+* Red LED
 * RGB LED
-* Motor
+* Stepper Motor
 * Proximity sensor
 * Button
 * Light sensor
-* Wire
+* Air
+* Water
+* Wireless Network
 
 ### Message
 
 * The number 42
 * Forward / left / right / back
-* Rick Astley’s "Never Gonna Give You Up"
+* URL: [https://youtu.be/dQw4w9WgXcQ](https://youtu.be/dQw4w9WgXcQ)
 * 8x8 pixel 1-bit image of Space Invader
 * The first five notes of Beethoven’s 5th Symphony
 * The color blue
