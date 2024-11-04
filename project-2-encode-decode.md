@@ -45,7 +45,8 @@ In this special "White Elephant" gift exchange, the gifts are cards that indicat
 * Cards with pre-written messages (e.g., "The number 42," "Forward/left/right/back," "Rick Astley’s 'Never Gonna Give You Up'," etc.).
 * Cards with pre-written mediums (e.g., "Steel pipe," "Buzzer," "RGB LED," etc.).
 * A basket or box to hold all the cards (both messages and mediums mixed together).
-* Numbered slips for determining the order in which students will pick.
+
+
 
 ### Assignment
 
@@ -67,7 +68,7 @@ MEDIUM: An RGB LED.
 
 Decide how to encode the pixel values (and position) into strikes on the steel pipe.
 
-MESSAGE: A 64x64 pixel image of Pikachu.
+MESSAGE: An 8x8 pixel image of Space Invader
 
 MEDIUM: A steel pipe.
 
