@@ -1,6 +1,6 @@
 # Project 2: Encode/Decode
 
-Final Demonstration on Tuesday, 11/19
+Final Demonstration on **Tuesday, 11/26**
 
 ### Objective
 
